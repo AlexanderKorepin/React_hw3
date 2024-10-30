@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import ParentCounter from './components/parent';
 import InputForm from './components/TextDisplayForm';
