@@ -23,7 +23,7 @@ function TextDisplayForm() {
 				value={text}
 				onChange={e => setText(e.target.value)}
 			/>
-            <h2></h2>
+            <h2> </h2>
 			<Button  variant='contained' color='primary' onClick={handleText}>
 				Отобразить текст
 			</Button>
